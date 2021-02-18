@@ -1,6 +1,8 @@
 This is a Name Generator Project, created in ReactJS.
 This is my first ReactJS project.
 
+The project is live, and can be checked out at : http://aniketsays.github.io/Name-Lister
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
